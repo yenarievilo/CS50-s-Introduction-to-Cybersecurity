@@ -1,1 +1,1 @@
-Este script gera todas as combinações possíveis de quatro caracteres utilizando letras (maiúsculas e minúsculas), dígitos e símbolos de pontuação. 
+Scripts gerados em todas as aulas do curso CS50 de introdução a ciber segurança.
